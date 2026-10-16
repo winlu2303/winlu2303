@@ -1,6 +1,6 @@
 # Hey, I'm Sofia-Luna Winter! 👋
 
-<img src="[MASCOT_URL]" align="right" width="220" alt="Sofia's mascot"/>
+<img src="https://github.com/user-attachments/assets/940c7f20-e604-42d9-8ae4-cdcc540c4149" align="right" width="220" alt="Sofia's mascot"/>
 
 ### CTO @ MedeorSoft | Backend & Fullstack Engineer | Go · Microservices · MedTech
 
