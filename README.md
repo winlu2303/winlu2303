@@ -4,11 +4,11 @@
 
 ### CTO @ MedeorSoft | Backend & Fullstack Engineer | Go · Microservices · MedTech
 
-**🌍 [English](#-english) <!-- · [Русский](#-русский)** -->
-
+<!-- **🌍 [English](#-english) --> <!-- · [Русский](#-русский)** -->
+<!--
 ---
 
-## 🇬🇧 English
+## 🇬🇧 English --> 
 
 ### 👋 About Me
 
