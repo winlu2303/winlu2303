@@ -47,7 +47,7 @@
 ### 💼 Professional Experience
 
 - **MedeorSoft — CTO**
-  *April 2026 – Present*
+  - *April 2026 – Present*
   - Define the technology strategy and 3–5 year architecture roadmap for MedTech products (SaaS, mobile, AI-assisted diagnostics).
   - Lead engineering teams: hiring, growth, motivation, and department structure.
   - Design and scale highly available, fault-tolerant architecture — failures in medical software directly affect clinics and patients.
@@ -58,7 +58,7 @@
   - Apply **ITSM, ITIL, and BPMN** practices in day-to-day operations.
 
 - **LLC "My Medical Center" — IT Specialist**
-  *June 2025 – April 2026*
+  - *June 2025 – April 2026*
   - Spearheaded integration of the **PACS** system with the existing **MIS**, streamlining diagnostic workflows.
   - Led assessment of the clinic's digital maturity.
   - Orchestrated integration of the **LIS** with lab equipment and the clinic's MIS.
@@ -70,7 +70,7 @@
   - Promoted the project inside the clinic for **HIMSS** certification.
 
 - **MedeorSoft — Senior System Administrator**
-  *November 2023 – May 2025*
+  - *November 2023 – May 2025*
   - Gathered and analyzed system integration requirements; assigned tasks to the project team.
   - Documented and coordinated business requirements with clients and stakeholders.
   - Created, decomposed, and maintained the project backlog.
@@ -79,7 +79,7 @@
   - Provided technical support and trained employees on software, databases, and network operations.
 
 - **Medical Laboratories — various roles**
-  *until February 2026*
+  - *until February 2026*
   - Extensive hands-on background in clinical laboratory diagnostics, which now informs my MedTech product decisions.
 
 ---
