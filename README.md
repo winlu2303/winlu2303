@@ -4,7 +4,7 @@
 
 ### CTO @ MedeorSoft | Backend & Fullstack Engineer | Go · Microservices · MedTech
 
-**🌍 [English](#-english) · [Русский](#-русский)**
+**🌍 [English](#-english) <!-- · [Русский](#-русский)** -->
 
 ---
 
@@ -138,7 +138,7 @@
 - SAS CTF 2026 Quals
 - RIFFHACK: Black Market Break-in 2026
 - Hackathon MAX 2026
-- **NASA Open Science** — ongoing participation
+- **NASA Space App Challenge** — ongoing participation
 
 ---
 
@@ -151,7 +151,8 @@
 
 ### 📝 Publications
 
-- **Medicus journal** — *Methodology for generating a VLKK dataset and applying standardized formulas and quality control procedures using the Winter algorithm and a spreadsheet* (2026)
+- **Medicus journal** — *Methodology for generating a VLKK dataset and applying standardized formulas and quality control procedures using the Winter algorithm and a spreadsheet* (2026) — [read online](http://scimedicus.ru/medicus-no-9-87-september/post/compensatory-mechanism-in-concurrent-hiv-infection-and-cutaneous-melanoma-from-clinical-observation-to-a-strategy-for-complete-provirus-eradication](http://scimedicus.ru/medicus-no-2-80-february/post/metodika-formirovaniya-massiva-dannyh-vlkk-i-primeneniya-standartizirovannyh-formul-i-procedur-kontrolya-kachestva-po-algoritmu-vinter-s-ispolzovaniem-tablichnogo-processora-ms-exc )
+
 - **Medicus journal** — *Compensatory mechanism in concurrent HIV infection and cutaneous melanoma: from clinical observation to a strategy for complete provirus eradication* (2026) — [read online](http://scimedicus.ru/medicus-no-9-87-september/post/compensatory-mechanism-in-concurrent-hiv-infection-and-cutaneous-melanoma-from-clinical-observation-to-a-strategy-for-complete-provirus-eradication)
 
 ---
@@ -187,7 +188,7 @@
 </div>
 
 ---
-
+<!--
 ## 🇷🇺 Русский
 
 ### 👋 Обо мне
@@ -371,3 +372,4 @@
 <div style="text-align: center; margin-top: 20px;">
   <img src="https://komarev.com/ghpvc/?username=winlu2303&label=Profile%20views&color=0e75b6&style=flat" alt="winlu2303"/>
 </div>
+-->
