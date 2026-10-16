@@ -32,12 +32,12 @@
   <a href="https://www.credly.com/users/sofia-luna-winter/badges/credly">
     <img src="https://img.shields.io/badge/-Credly-FF6B00?style=flat&logo=credly&logoColor=white" alt="Credly"/>
   </a>
-  &nbsp;&nbsp;&nbsp;
+ <!-- &nbsp;&nbsp;&nbsp;
   <a href="https://www.linkedin.com/in/[your-linkedin]">
     <img src="https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white" alt="LinkedIn"/>
-  </a>
+  </a> -->
   &nbsp;&nbsp;&nbsp;
-  <a href="mailto:[your-email]">
+  <a href="mailto:[winlu2303@icloud.com]">
     <img src="https://img.shields.io/badge/-Email-D14836?style=flat&logo=gmail&logoColor=white" alt="Email"/>
   </a>
 </p>
